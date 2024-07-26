@@ -1,4 +1,14 @@
 #!/usr/bin/python3
+"""
+Generate Pascal's Triangle up to the nth row.
+
+    Args:
+        n (int): The number of rows of Pascal's Triangle to generate.
+
+    Returns:
+        list: A list of lists representing Pascal's Triangle.
+"""
+
 
 
 def pascal_triangle(n):
