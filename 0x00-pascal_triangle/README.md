@@ -10,8 +10,8 @@
 
 <h2>Overview</h2>
 <p>
-    This repository contains a Python function that generates Pascal's Triangle up to a specified number of rows. 
-    Pascal's Triangle is a triangular array of binomial coefficients, which has many applications in mathematics 
+    This repository contains a Python function that generates Pascal's Triangle up to a specified number of rows.
+    Pascal's Triangle is a triangular array of binomial coefficients, which has many applications in mathematics
     and computer science, including combinatorics, probability, and algebra.
 </p>
 
@@ -25,7 +25,7 @@
 
 <h2>Usage</h2>
 <p>
-    To use the Pascal's Triangle generator, you need Python 3 installed on your system. 
+    To use the Pascal's Triangle generator, you need Python 3 installed on your system.
     You can include the function in your Python scripts or run it as a standalone script.
 </p>
 
@@ -74,7 +74,7 @@ if __name__ == "__main__":
 
 <h2>Acknowledgements</h2>
 <p>
-    Thanks to everyone who has contributed to this project. Special thanks to the Python community for their 
+    Thanks to everyone who has contributed to this project. Special thanks to the Python community for their
     continuous support and resources.
 </p>
 
