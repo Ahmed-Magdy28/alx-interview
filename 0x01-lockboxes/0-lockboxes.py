@@ -4,7 +4,7 @@
 
 
 def canUnlockAll(boxes):
-    """Determines if all boxes can be opened.
+    """Determines if all boxes can be opened successfully or not.
 
     Args:
         boxes (list of list of int): A list of lists where each inner list
